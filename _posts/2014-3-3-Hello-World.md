@@ -1,6 +1,0 @@
----
-layout: post
-title: Wieder angefangen zu bloggen...
----
-
-Nach Jahren der Abstinenz, starte ich heute mal wieder einen Blog...
